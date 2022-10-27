@@ -1,0 +1,85 @@
+
+ .header{
+   display:flex;
+   flex-direction:row;
+   height:60px;
+   border-radius:5px;
+   width:1000px;
+   margin-top:50px;
+   margin-left:375px;
+   background-color:white;
+
+ }
+ .right-section{
+   display:flex;
+   flex-direction:row;
+   margin-right:200px;
+   flex:400px;
+   margin-right:200px;
+
+   align-items:center;
+
+ }
+ .right-section img{
+   height:20px;
+ }
+ .left-section img{
+   height:20px;
+ }
+ .left-section{
+    display:flex;
+    flex-direction:row;
+    width:300px;
+    justify-content: space-between;
+    align-items:center;
+ }
+ .right-section div{
+   font-family:Arial;
+   font-size:12px;
+   font-weight:bold;
+ }
+ .hire-section{
+   display:flex;
+   flex-direction:row;
+   justify-content: space-between;
+
+   background-color:orange;
+   height:18px;
+   padding:6px 2px 6px 10px;
+   margin-right:5px;
+   border-radius:20px;
+ }
+
+ .hire-me-text{
+   font-family:Arial;
+   font-size:15px;
+   margin-right:10px;
+
+ }
+ .telegram-icon-container{
+   border-radius:20px;
+ }
+ .telegram-icon{
+   border-radius:100%;
+ }
+ .home-icon-container{
+   background-color:orange;
+   display:flex;
+   flex-direction:row;
+   height:60px;
+   width:60px;
+   justify-content:center;
+   align-items:center;
+   border-top-left-radius:5px;
+   border-bottom-left-radius:5px;
+ }
+ .option{
+   display:flex;
+   flex-direction:row;
+   justify-content:space-between;
+   width:440px;
+   margin-left:20px;
+ }
+ body{
+   background-color: rgb(228,228,228);
+ }

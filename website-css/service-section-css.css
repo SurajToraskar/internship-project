@@ -1,0 +1,67 @@
+.web-development-icon,
+.illustrator-icon,
+.fast-delivery-icon,
+.branding-identity-icon{
+  height:50px;
+
+}
+
+.icons-container{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-around;
+  width:1000px;
+}
+
+.service-title{
+  font-family:Roboto,Arial;
+  font-weight:bold;
+  color:black;
+
+}
+.service-info{
+  width:160px;
+  font-family:Arial;
+  color:grey;
+  font-size:14px;
+  line-height:20px;
+}
+.content{
+
+  background-color:white;
+  height:1000px;
+  margin-left:375px;
+  border-radius:5px;
+
+}
+.service-section{
+  margin-top:40px;
+  padding-top:40px;
+
+  /* padding-left: 30px;
+  padding-right:30px; */
+  background-color: rgb(228,228,228);
+  height:320px;
+  width:100%;
+}
+.web-development-container,
+.branding-identity-container,
+.illustrator-container,
+.fast-delivery-container{
+  background-color:white;
+  padding-top:25px;
+  padding-left:20px;
+  padding-right:20px;
+  border-radius:5px;
+
+}
+.service-section-title{
+  font-family:Roboto,Arial;
+  font-size:18px;
+  margin-bottom:40px;
+  font-weight:bold;
+  color:rgb(0,0,0);
+  background:linear-gradient(180deg, transparent 60%, orange 60%);
+  display:inline-block;
+  margin-left:30px;
+}

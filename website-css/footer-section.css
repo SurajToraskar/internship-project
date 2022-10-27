@@ -1,0 +1,41 @@
+.important-info{
+  margin-top:40px;
+  font-family:Arial;
+  display:flex;
+  flex-direction:row;
+  justify-content:space-between;
+  align-items:center;
+  width:1000px;
+  color:grey;
+  background-color:black;
+  height:60px;
+  font-size:15px;
+  border-radius:5px;
+  margin-left:375px;
+
+}
+.details{
+  display:flex;
+  flex-direction:row;
+
+}
+.symbol{
+
+  border-style:solid;
+  border-radius:20px;
+  border-width:1px;
+  width:10px;
+  padding-left:5px;
+  padding-right:5px;
+  height:15px;
+  margin-right:5px;
+}
+.single-word{
+  color:white;
+  margin-right:25px;
+}
+.author{
+  font-weight:bold;
+  color:white;
+  margin-left:25px;
+}

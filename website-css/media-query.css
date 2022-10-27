@@ -1,0 +1,72 @@
+@media(max-width:1200px){
+  .icons-container{
+    width:1000px;
+    justify-content:space-between;
+    flex-direction:column;
+  }
+  .web-development-container,
+  .branding-identity-container,
+  .illustrator-container,
+  .fast-delivery-container{
+   margin-top:20px;
+   width:380px;
+   white-space:nowrap;
+  }
+  .content{
+    width:590px;
+    height:1500px;
+
+  }
+  .service-section{
+    height:850px;
+  }
+  .important-info{
+    width:590px;
+  }
+}
+ @media(max-width:768px){
+   .sidebar{
+     margin-top:-10px;
+     left:35px;
+     position:relative;
+     width:720px
+     
+   }
+   .header{
+     margin-left:0px;
+
+   }
+   .content{
+     margin-left:35px;
+     margin-top:450px;
+     width:720px;
+
+
+   }
+   .about-me-section{
+     width:640px;
+     margin-right:20px;
+
+
+   }
+   .important-info{
+     margin-left:0px;
+     width:610px;
+   }
+   .service-section{
+     height:850px;
+   }
+   .sidebar{
+     padding-top:15px;
+   }
+   .icons-container{
+     margin-left:150px;
+   }
+   .important-info{
+     width:720px;
+     margin-left:35px;
+   }
+
+
+
+ }
